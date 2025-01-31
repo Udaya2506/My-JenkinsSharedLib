@@ -1,3 +1,3 @@
 def call(){
-  echo "Hi this is can groovy..."
+  echo "Hi this is can scan groovy..."
 }
